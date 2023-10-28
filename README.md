@@ -6,5 +6,6 @@
 
 ![gambar 1](screenshot/ss1.png)
 
-Flowchart
+<P>flowchart</P>
+
 ![gambar 2](screenshot/ss2.png)
